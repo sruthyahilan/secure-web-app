@@ -19,7 +19,10 @@ The goal of this project is to demonstrate practical implementation of:
 - Cyber Security
 - DevOps Automation
 - Monitoring & Logging
+<<<<<<< HEAD
 
+=======
+>>>>>>> b1d247e (Initial commit)
 ---
 
 # Technologies Used
@@ -58,4 +61,8 @@ git clone https://github.com/sruthyahilan/secure-web-app.git
 python3 app.py
 
 ##Open Browser
+<<<<<<< HEAD
 http://127.0.0.1:5001
+=======
+http://127.0.0.1:5001
+>>>>>>> b1d247e (Initial commit)
